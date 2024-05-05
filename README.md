@@ -1,5 +1,5 @@
 # Projeto "Alura Plus"
-Porjeto do curso HTML e CSS da Alura.
+Projeto do curso HTML e CSS da Alura.
 
 ## Ferramentas Utilizadas:
 * HTML
